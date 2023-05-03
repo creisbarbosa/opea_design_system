@@ -22,5 +22,8 @@ const config = {
   docs: {
     autodocs: "tag",
   },
+  build: {
+    chunkSizeWarningLimit: 700,
+  }
 };
 export default config;
