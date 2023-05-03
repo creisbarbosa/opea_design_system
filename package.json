@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=c08bf11a5071"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
@@ -35,5 +36,7 @@
     "storybook": "^7.0.7",
     "style-loader": "^2.0.0",
     "vite": "^4.3.2"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "opea_design_system@0.0.0"
 }

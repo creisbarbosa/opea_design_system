@@ -37,7 +37,7 @@
       type: {
         type: String,
         validator: function (value) {
-          return ['primary', 'secondary', 'darker'].indexOf(value) !== -1;
+          return ['danger', 'success'].indexOf(value) !== -1;
         },
       },
     },

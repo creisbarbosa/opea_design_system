@@ -24,6 +24,6 @@ const config = {
   },
   build: {
     chunkSizeWarningLimit: 700,
-  }
+  },
 };
 export default config;
