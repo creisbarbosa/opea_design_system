@@ -1,0 +1,117 @@
+$gray-100: #fafafa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+
+$blue-100: #E3EEF0;
+$blue-200: #A4D5DF;
+$blue-300: #80CBDC;
+$blue-400: #57C4DC;
+$blue-500: #42C1DD;
+$blue-600: #2CA8C3;
+$blue-700: #1B8CA5;
+$blue-800: #0E6E81;
+$blue-900: #054D57;
+$blue-950: #00292D;
+
+$wine-100: #FFF1E9;
+$wine-200: #E6ADA2;
+$wine-300: #E6ADA2;
+$wine-400: #AE3043;
+$wine-500: #900E37;
+$wine-600: #82012A;
+$wine-700: #70001E;
+$wine-800: #5A0014;
+$wine-900: #3F000C;
+$wine-950: #1F0005;
+
+$indigo-100: #DEE9FC;
+$indigo-200: #C4DAFB;
+$indigo-300: #9DC4F8;
+$indigo-400: #70A3F3;
+$indigo-500: #4E80EE;
+$indigo-600: #3662E3;
+$indigo-700: #2A4DD0;
+$indigo-800: #263FA9;
+$indigo-900: #253985;
+$indigo-950: #1A2551;
+
+$purple-100: #F7E9FD;
+$purple-200: #EFD1FB;
+$purple-300: #E6AEF7;
+$purple-400: #DA7FF2;
+$purple-500: #C951E7;
+$purple-600: #B135CC;
+$purple-700: #952AA9;
+$purple-800: #7B248A;
+$purple-900: #672171;
+$purple-950: #430B4B;
+
+$red-100: #F9E3E2;
+$red-200: #F6CCCB;
+$red-300: #F0A9A7;
+$red-400: #E77975;
+$red-500: #DD524C;
+$red-600: #CF364C;
+$red-700: #AE2A3F;
+$red-800: #92243B;
+$red-900: #752522;
+$red-950: #3F0F0D;
+
+$orange-100: #FCEED8;
+$orange-200: #F8D8B0;
+$orange-300: #F3BD7F;
+$orange-400: #ED974F;
+$orange-500: #E87B35;
+$orange-600: #D9622B;
+$orange-700: #B34A22;
+$orange-800: #8E3B1F;
+$orange-900: #73321B;
+$orange-950: #3D170B;
+
+$yellow-100: #FDF9C9;
+$yellow-200: #FCF097;
+$yellow-300: #F8E164;
+$yellow-400: #F3CE49;
+$yellow-500: #E2B53E;
+$yellow-600: #C18D30;
+$yellow-700: #986523;
+$yellow-800: #7D501F;
+$yellow-900: #6A411C;
+$yellow-950: #3D220C;
+
+$green-100: #E2FBE8;
+$green-200: #C7F5D3;
+$green-300: #A0ECB1;
+$green-400: #77DB89;
+$green-500: #5EC269;
+$green-600: #4CA154;
+$green-700: #3C7E44;
+$green-800: #306339;
+$green-900: #285231;
+$green-950: #122D18;
+
+$white: #FFFFFF;
+
+$primary: $wine-500;
+$secondary: $blue-500;
+$info: $indigo-500;
+$warning: $yellow-500;
+$danger: $red-500;
+$light: $gray-100;
+$dark: $gray-500;
+
+$theme-colors: (
+  "primary": #900E37,
+  "secondary": #42C1DD,
+  "info": #4E80EE,
+  "warning": #E2B53E,
+  "danger": #DD524C,
+  "light": #FAFAFA,
+  "dark": #525252,
+);

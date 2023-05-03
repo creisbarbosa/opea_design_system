@@ -1,0 +1,28 @@
+@import '../assets/styles/index.scss';
+
+section {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 48px 20px;
+  margin: 0 auto;
+  max-width: 1152px;
+  color: $wine-700;
+}
+
+section h2 {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 1;
+  margin: 0 0 4px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+section strong {
+  font-weight: 500;
+}
+
+section p {
+  margin: 1em 0;
+}
